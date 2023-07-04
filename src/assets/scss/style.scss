@@ -1,0 +1,11 @@
+@use './vars' as *;
+@use 'bootstrap/scss/bootstrap';
+
+#app {
+    font-family: $main-font;
+}
+
+.container {
+    margin-top: 100px;
+    max-width: 1200px;
+}
