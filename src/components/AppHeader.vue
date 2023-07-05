@@ -58,7 +58,7 @@ export default {
 </script>
 
 <template>
-    <header class="container text-center my-4">
+    <header class="container text-center">
         <div class="search-button">
             <!-- Input search -->
             <div class="input-group text-danger">
@@ -75,6 +75,8 @@ export default {
 </template>
 
 <style scoped>
+
+
 
 .search-button {
     display: flex;

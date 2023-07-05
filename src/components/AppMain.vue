@@ -27,6 +27,10 @@ export default {
 <style lang="scss" scoped>
 @import 'bootstrap/dist/css/bootstrap.css';
 
+
+#app {
+    background-color: red;
+}
 .my-bi {
   font-size: 20;
 }
