@@ -34,7 +34,7 @@ export default {
 
     .my-f {
         background-color: white;
-        border-radius: 50%;
+        border-radius: 20%;
         width: 100px;
         height: 100px;
         display: flex;
@@ -42,7 +42,7 @@ export default {
         align-items: center;
         margin: auto;
         overflow: hidden;
-        margin-bottom: 2rem;
+        margin-bottom: 40px;
     }
     
     @each $type,

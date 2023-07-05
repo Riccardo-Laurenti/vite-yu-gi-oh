@@ -43,4 +43,8 @@ export default {
     overflow-y: auto;
     align-items: center;
 }
+
+.c-pokemon {
+    border-radius: 0px;
+}
 </style>
